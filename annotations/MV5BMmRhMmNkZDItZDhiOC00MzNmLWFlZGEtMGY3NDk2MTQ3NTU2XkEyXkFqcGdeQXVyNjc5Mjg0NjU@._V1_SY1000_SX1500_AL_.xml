@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>CNN</folder>
+	<filename>MV5BMmRhMmNkZDItZDhiOC00MzNmLWFlZGEtMGY3NDk2MTQ3NTU2XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SY1000_SX1500_AL_.jpg</filename>
+	<path>C:\Users\Dan\Pictures\CNN\MV5BMmRhMmNkZDItZDhiOC00MzNmLWFlZGEtMGY3NDk2MTQ3NTU2XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SY1000_SX1500_AL_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>838</xmin>
+			<ymin>208</ymin>
+			<xmax>1343</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

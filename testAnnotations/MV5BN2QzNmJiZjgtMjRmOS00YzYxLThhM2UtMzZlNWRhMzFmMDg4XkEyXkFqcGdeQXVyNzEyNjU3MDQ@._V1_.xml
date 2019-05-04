@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>testPerson</folder>
+	<filename>MV5BN2QzNmJiZjgtMjRmOS00YzYxLThhM2UtMzZlNWRhMzFmMDg4XkEyXkFqcGdeQXVyNzEyNjU3MDQ@._V1_.jpg</filename>
+	<path>C:\Users\Dan\Pictures\testPerson\MV5BN2QzNmJiZjgtMjRmOS00YzYxLThhM2UtMzZlNWRhMzFmMDg4XkEyXkFqcGdeQXVyNzEyNjU3MDQ@._V1_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>11</ymin>
+			<xmax>896</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>
