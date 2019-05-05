@@ -6,7 +6,7 @@ This model was part of a larger system that was meant to first detect a person a
 
 ## Links
 ### I followed steps from the article below:
-(He also provided the scripts to convert my training files and i followed the structure of his project for my repo.)
+(He also provided the scripts to convert my training files and I followed the structure of his project for my repo.)
 
 https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
 
