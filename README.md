@@ -5,10 +5,10 @@ This repository contains the person detection model I trained for my team’s fi
 This model was part of a larger system that was meant to first detect a person and then try to identify the person using facial recognition. Slack was also used to send alerts to the user for intruders.
 
 ## Links
-I followed steps from this article to get started:
+### I followed steps from the article below:
+(He also provided the scripts to convert my training files and i followed the structure of his project for my repo.)
 
 https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
 
-The files I discussed can be found in this repo:
-
+### The files I discussed can be found in this repo:
 https://github.com/tensorflow/models
